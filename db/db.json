@@ -1,0 +1,32 @@
+{
+    "produtos": [
+        {
+            "id": "1",
+            "name": "Produto Exemplo 1",
+            "price": 99.9,
+            "image": "/images/produto1.jpg",
+            "description": "Descrição breve do produto 1."
+        },
+        {
+            "id": "2",
+            "name": "Produto Exemplo 2",
+            "price": 149.5,
+            "image": "/images/produto2.jpg",
+            "description": "Descrição breve do produto 2."
+        },
+        {
+            "id": "3",
+            "name": "Produto Exemplo 3",
+            "price": 79.0,
+            "image": "/images/produto3.jpg",
+            "description": "Descrição breve do produto 3."
+        },
+        {
+            "id": "4",
+            "name": "Produto Exemplo 3",
+            "price": 79.0,
+            "image": "/images/produto3.jpg",
+            "description": "Descrição breve do produto 3."
+        }
+    ]
+}
