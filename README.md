@@ -19,11 +19,25 @@ Projeto de uma loja virtual desenvolvido com Next.js e Firebase, com foco em uma
 - [Tailwind CSS](https://tailwindcss.com/) (ou especifique o framework de estilo que você usou)
 - [React Context API](https://reactjs.org/docs/context.html) para gerenciamento de estado do carrinho
 
+## 📸 Screenshots
+
+### 🏠 Tela Home
+<img src="./public/imagens/prints-app/home.png" alt="Tela Home" width="300"/>
+
+### 🎮 Jogo de Ponga (2 Jogadores)
+<img src="./public/imagens/prints-app/produtos.png" alt="Jogo 2 Jogadores" width="300"/>
+
+### 🤖 Modo IA (em breve)
+<img src="./public/imagens/prints-app/detalhes.png" alt="Modo IA" width="300"/>
+
+### 🤖 Modo IA (em breve)
+<img src="./public/imagens/prints-app/admin.png" alt="Modo IA" width="300"/>
+
 ## 📦 Como rodar o projeto
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/loja-virtual.git
+git clone https://github.com/vinisantos2/loja-virtual
 
 # Acesse a pasta do projeto
 cd loja-virtual
