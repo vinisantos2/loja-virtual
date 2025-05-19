@@ -22,16 +22,16 @@ Projeto de uma loja virtual desenvolvido com Next.js e Firebase, com foco em uma
 ## 📸 Screenshots
 
 ### 🏠 Tela Home
-<img src="./imagens/prints-app/home.png" alt="Tela Home" width="400"/>
+<img src="./public/imagens/prints-app/home.png" alt="Tela Home" width="400"/>
 
 ### 🛍️ Listagem de Produtos
-<img src="/imagens/prints-app/produtos.png" alt="Listagem de Produtos" width="400"/>
+<img src="./public/imagens/prints-app/produtos.png" alt="Listagem de Produtos" width="400"/>
 
 ### 📄 Detalhes do Produto
-<img src="/imagens/prints-app/detalhes.png" alt="Detalhes do Produto" width="400"/>
+<img src="./public/imagens/prints-app/detalhes.png" alt="Detalhes do Produto" width="400"/>
 
 ### 🛠️ Área Admin (em breve)
-<img src="/imagens/prints-app/admin.png" alt="Área Admin" width="400"/>
+<img src="./public/imagens/prints-app/admin.png" alt="Área Admin" width="400"/>
 
 ## 📦 Como rodar o projeto
 
