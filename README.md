@@ -16,22 +16,22 @@ Projeto de uma loja virtual desenvolvido com Next.js e Firebase, com foco em uma
 - [Next.js (App Router)](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Firebase (Firestore)](https://firebase.google.com/)
-- [Tailwind CSS](https://tailwindcss.com/) (ou especifique o framework de estilo que você usou)
+- [Tailwind CSS](https://tailwindcss.com/)
 - [React Context API](https://reactjs.org/docs/context.html) para gerenciamento de estado do carrinho
 
 ## 📸 Screenshots
 
 ### 🏠 Tela Home
-<img src="./public/imagens/prints-app/home.png" alt="Tela Home" width="300"/>
+<img src="/imagens/prints-app/home.png" alt="Tela Home" width="400"/>
 
-### 🎮 Jogo de Ponga (2 Jogadores)
-<img src="./public/imagens/prints-app/produtos.png" alt="Jogo 2 Jogadores" width="300"/>
+### 🛍️ Listagem de Produtos
+<img src="/imagens/prints-app/produtos.png" alt="Listagem de Produtos" width="400"/>
 
-### 🤖 Modo IA (em breve)
-<img src="./public/imagens/prints-app/detalhes.png" alt="Modo IA" width="300"/>
+### 📄 Detalhes do Produto
+<img src="/imagens/prints-app/detalhes.png" alt="Detalhes do Produto" width="400"/>
 
-### 🤖 Modo IA (em breve)
-<img src="./public/imagens/prints-app/admin.png" alt="Modo IA" width="300"/>
+### 🛠️ Área Admin (em breve)
+<img src="/imagens/prints-app/admin.png" alt="Área Admin" width="400"/>
 
 ## 📦 Como rodar o projeto
 
@@ -45,5 +45,5 @@ cd loja-virtual
 # Instale as dependências
 npm install
 
-# Crie um arquivo .env.local com suas credenciais do Firebase
+# Crie um arquivo de variáveis de ambiente
 touch .env.local
