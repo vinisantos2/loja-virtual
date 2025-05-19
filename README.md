@@ -22,7 +22,7 @@ Projeto de uma loja virtual desenvolvido com Next.js e Firebase, com foco em uma
 ## 📸 Screenshots
 
 ### 🏠 Tela Home
-<img src="/imagens/prints-app/home.png" alt="Tela Home" width="400"/>
+<img src="./imagens/prints-app/home.png" alt="Tela Home" width="400"/>
 
 ### 🛍️ Listagem de Produtos
 <img src="/imagens/prints-app/produtos.png" alt="Listagem de Produtos" width="400"/>
